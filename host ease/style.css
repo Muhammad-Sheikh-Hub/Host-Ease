@@ -1,0 +1,273 @@
+.main{
+    background-color: black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.font>a{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bolder;
+    align-items: center;
+    color: white;
+    padding: 15px 30px 10px;
+    display: flex;
+}
+.aside>ul{
+    display: flex;
+}
+.aside>li{
+    list-style: none;
+   
+    
+    
+}
+.aside a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    text-transform: uppercase;
+    padding: 25px;
+    align-items: center;
+}
+.aside-2{
+padding: 10px 10px;
+   
+}
+
+.aside-2  button{
+    width: 10rem;
+    height: 2rem;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+    border-color: red;
+    font-size: large;
+    font-weight: bold;
+    text-transform:uppercase ;
+}
+
+.aside-2  button:hover{
+    background-color: goldenrod;
+    transition: 0.8s;
+}
+
+.main-2{
+    display: flex;
+    margin: 10px;
+
+}
+#pic{
+    width: 30%;
+    padding: 0px 30px ;
+}
+
+.yellow>p{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+   width: 80%;
+    text-align: justify;
+    padding: 0px 30px;
+}
+
+.yellow>h1{
+    padding: 0px 30px;
+    text-transform: capitalize;
+}
+
+.card{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.first>span{
+    text-transform: capitalize;
+    font-size: x-large;
+    font-weight: 300;
+}
+
+.first>i{
+    padding: 5px;
+}
+.first{
+    width: 23rem;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.first p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 100;
+}
+
+.main-2{
+    display: flex;
+}
+
+#photo{
+    width: 20%;
+    padding: 10px 20px;
+}
+
+.yellow-2 p{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200;
+    width: 60%;
+    padding: 0px 10px; 
+}
+
+.yellow-2 h1{
+    margin: 10px;
+    text-transform: capitalize;
+}
+
+.pink{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.heading{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.green i{
+    font-size: 1.8rem;
+}
+
+.green{
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px 20px;
+    width: 24rem;
+    margin-top: 10px;
+
+}
+
+.door{
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+.green>p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-weight: 200;
+    text-align: justify;
+}
+
+.bag{
+    padding: 10px 10px;
+    display: flex;
+    justify-content: center;
+}
+.bold{
+    text-transform: capitalize;
+    width: 40%;
+}
+
+.input-2{
+    width: 60%;
+    padding: 30px 10px;
+}
+
+.put{
+    width: 60%;
+    height: 40%;
+    text-align: start;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+
+.btn{
+    text-transform: capitalize;
+    font-size: medium;
+    font-weight: 100;
+    background-color: black;
+    color: white;
+    width: 20%;
+    padding: 5px;
+   
+}
+
+.btn:hover{
+    transition: all 0.8s;
+    background-color: red;
+}
+
+        /* Footer */
+.main-3{
+    background-color: whitesmoke;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-around;   
+}
+
+
+.paragraph i{
+    padding: 1px 10px;
+    font-size: x-large;
+    color: black;
+}
+
+.paragraph p{
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+    line-height: 25px;
+    text-align: justify; 
+    width: 40%;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flex-direction: column;
+    
+    
+}
+
+.resources{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.resources a{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flex-direction: column;
+}
+
+.tasweer{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.sofa{
+    width: 40px;
+}
+
+
